@@ -1,0 +1,40 @@
+# Core LLM + Transformers
+transformers==4.41.1
+sentencepiece
+accelerate
+torch
+tokenizers
+
+# Hugging Face Hub
+huggingface_hub
+
+# Image Generation (OMINI, Stable Diffusion)
+diffusers==0.27.2
+scipy
+ftfy
+safetensors
+xformers
+opencv-python
+Pillow
+
+# Translation Models
+langchain
+googletrans==4.0.0rc1
+deep-translator
+
+# UI Framework
+streamlit
+gradio
+
+# Prompt Engineering / Extras
+openai
+tqdm
+regex
+
+# For working in notebooks
+ipykernel
+jupyterlab
+
+# Optional: Text enhancement and humor logic
+nltk
+spacy
